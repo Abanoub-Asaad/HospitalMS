@@ -12,6 +12,13 @@ The HMS is organized into clinics. Each clinic has a name, working hours and flo
 2. Install Crystal Reports with the same version of VS
 3. Any Oracle Database.
 
+# Project Related 
+  |           Resource               |  Link |
+  | :---------------------------------: | :---------------------------------: | 
+  |  Project Issues on GitHub | [Link](https://github.com/Kareem100/HospitalMS/issues?q=is%3Aissue+is%3Aclosed) |
+  | Project Pull Requests on GitHub |  [Link](https://github.com/Kareem100/HospitalMS/pulls?q=is%3Apr+is%3Aclosed) |
+  | Project Questions on Stack Overflow  | [Link](https://stackoverflow.com/questions/67941453/handle-output-parameter-of-an-oracle-stored-procedure-using-c-sharp-code) |
+  
 # Getting into the project
 
 <details>
@@ -138,4 +145,3 @@ the duration patient spent and his conditional illness.
   
 </p>
   </details>
-
