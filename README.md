@@ -113,7 +113,7 @@ the duration patient spent and his conditional illness.
 </details>
 
 <details>
-  <summary>Medical Stuff Data</summary>
+  <summary>Medical Staff Data</summary>
 <p>
   
 ![UserDataForm](https://user-images.githubusercontent.com/48657780/121801480-c24c9b00-cc37-11eb-9cc7-addf10c08da7.png)
