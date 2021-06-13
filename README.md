@@ -87,8 +87,8 @@ the duration patient spent and his conditional illness.
   <summary>Reports</summary>
 <p>
     
-![](Screenshots/3.%20Reports/ReportForm.png)
-![](Screenshots/3.%20Reports/DisplayReports.png)
+![ReportForm](https://user-images.githubusercontent.com/48657780/121801417-7994e200-cc37-11eb-8142-a1f1f89b6504.png)
+![DisplayReports](https://user-images.githubusercontent.com/48657780/121801431-81548680-cc37-11eb-9e2d-cfe6ce786963.png)
   
 </p>
 </details>
@@ -97,7 +97,7 @@ the duration patient spent and his conditional illness.
   <summary>Bills</summary>
 <p>
 
-![](Screenshots/6.%20Bills/DisplayBillsForm.png)
+![DisplayBillsForm](https://user-images.githubusercontent.com/48657780/121801458-a21cdc00-cc37-11eb-87a0-fb389b24a3a2.png)
 
 </p>
 </details>
@@ -107,7 +107,7 @@ the duration patient spent and his conditional illness.
   <summary>Pharmacy</summary>
 <p>
     
-![](Screenshots/7.%20Pharmacy/PharmacyForm.png)
+![PharmacyForm](https://user-images.githubusercontent.com/48657780/121801468-acd77100-cc37-11eb-8fe7-27c1191509f2.png)
 
 </p>
 </details>
@@ -116,7 +116,7 @@ the duration patient spent and his conditional illness.
   <summary>Medical Stuff Data</summary>
 <p>
   
-![](Screenshots/8.%20Stuff/UserDataForm.png)
+![UserDataForm](https://user-images.githubusercontent.com/48657780/121801480-c24c9b00-cc37-11eb-9cc7-addf10c08da7.png)
   
 </p>
 </details>
@@ -125,7 +125,7 @@ the duration patient spent and his conditional illness.
   <summary>Change Password</summary>
 <p>
   
-  ![](Screenshots/9.%20Password/ChangePasswordForm.png)
+  ![ChangePasswordForm](https://user-images.githubusercontent.com/48657780/121801486-cd9fc680-cc37-11eb-91d2-d390db5f441b.png)
   
 </p>
   </details>
@@ -134,7 +134,8 @@ the duration patient spent and his conditional illness.
   <summary>Show Patients</summary>
 <p>
   
-  ![](Screenshots/10.%20Patients/PatientsForm.png)
+![PatientsForm](https://user-images.githubusercontent.com/48657780/121801490-d5f80180-cc37-11eb-8352-8bfcda4f0e20.png)
   
 </p>
   </details>
+
